@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: brown; */
+}
+nav{
+    background-color: brown;
+    color: white;
+    padding: 30px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
